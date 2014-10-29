@@ -1,0 +1,336 @@
+
+# /
+*/packages/*
+/packages/*
+!packages/repositories.config
+!packages/manual/
+obj/
+bin/
+TestResults/
+_ReSharper.*
+*.csproj.user
+*.resharper.user
+*.resharper
+*.suo
+*.cache
+*~
+*.swp
+*.resharper.user
+*.rptproj.user
+*.ncrunchsolution
+*.db
+*.sdf
+*.tmp
+*.tmproj
+~$*
+
+# /DataModel/MosaicDataModeler/
+/DataModel/MosaicDataModeler/*.localz
+/DataModel/MosaicDataModeler/*.local
+
+# /DataModel/MosaicDataModeler/businessinfo/
+/DataModel/MosaicDataModeler/businessinfo/*.localz
+/DataModel/MosaicDataModeler/businessinfo/*.local
+
+# /DataModel/MosaicDataModeler/datatypes/
+/DataModel/MosaicDataModeler/datatypes/*.localz
+/DataModel/MosaicDataModeler/datatypes/*.local
+
+# /DataModel/MosaicDataModeler/datatypes/structuredtype/
+/DataModel/MosaicDataModeler/datatypes/structuredtype/*.localz
+/DataModel/MosaicDataModeler/datatypes/structuredtype/*.local
+
+# /DataModel/MosaicDataModeler/datatypes/structuredtype/seg_0/
+/DataModel/MosaicDataModeler/datatypes/structuredtype/seg_0/*.localz
+/DataModel/MosaicDataModeler/datatypes/structuredtype/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/datatypes/subviews/
+/DataModel/MosaicDataModeler/datatypes/subviews/*.localz
+/DataModel/MosaicDataModeler/datatypes/subviews/*.local
+
+# /DataModel/MosaicDataModeler/logical/
+/DataModel/MosaicDataModeler/logical/*.localz
+/DataModel/MosaicDataModeler/logical/*.local
+
+# /DataModel/MosaicDataModeler/logical/entity/
+/DataModel/MosaicDataModeler/logical/entity/*.localz
+/DataModel/MosaicDataModeler/logical/entity/*.local
+
+# /DataModel/MosaicDataModeler/logical/entity/seg_0/
+/DataModel/MosaicDataModeler/logical/entity/seg_0/*.localz
+/DataModel/MosaicDataModeler/logical/entity/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/logical/note/
+/DataModel/MosaicDataModeler/logical/note/*.localz
+/DataModel/MosaicDataModeler/logical/note/*.local
+
+# /DataModel/MosaicDataModeler/logical/note/seg_0/
+/DataModel/MosaicDataModeler/logical/note/seg_0/*.localz
+/DataModel/MosaicDataModeler/logical/note/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/logical/relation/
+/DataModel/MosaicDataModeler/logical/relation/*.localz
+/DataModel/MosaicDataModeler/logical/relation/*.local
+
+# /DataModel/MosaicDataModeler/logical/relation/seg_0/
+/DataModel/MosaicDataModeler/logical/relation/seg_0/*.localz
+/DataModel/MosaicDataModeler/logical/relation/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/logical/subviews/
+/DataModel/MosaicDataModeler/logical/subviews/*.localz
+/DataModel/MosaicDataModeler/logical/subviews/*.local
+
+# /DataModel/MosaicDataModeler/mapping/
+/DataModel/MosaicDataModeler/mapping/*.localz
+/DataModel/MosaicDataModeler/mapping/*.local
+
+# /DataModel/MosaicDataModeler/pm/
+/DataModel/MosaicDataModeler/pm/*.localz
+/DataModel/MosaicDataModeler/pm/*.local
+
+# /DataModel/MosaicDataModeler/pm/dflows/
+/DataModel/MosaicDataModeler/pm/dflows/*.localz
+/DataModel/MosaicDataModeler/pm/dflows/*.local
+
+# /DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/*.localz
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/*.local
+
+# /DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/flow/
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/flow/*.localz
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/flow/*.local
+
+# /DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/flow/seg_0/
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/flow/seg_0/*.localz
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/flow/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/process/
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/process/*.localz
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/process/*.local
+
+# /DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/process/seg_0/
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/process/seg_0/*.localz
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/process/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/subviews/
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/subviews/*.localz
+/DataModel/MosaicDataModeler/pm/dflows/AA843227-3536-F439-34C7-C4343DDE959C/subviews/*.local
+
+# /DataModel/MosaicDataModeler/pm/store/
+/DataModel/MosaicDataModeler/pm/store/*.localz
+/DataModel/MosaicDataModeler/pm/store/*.local
+
+# /DataModel/MosaicDataModeler/pm/store/seg_0/
+/DataModel/MosaicDataModeler/pm/store/seg_0/*.localz
+/DataModel/MosaicDataModeler/pm/store/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/rdbms/
+/DataModel/MosaicDataModeler/rdbms/*.localz
+/DataModel/MosaicDataModeler/rdbms/*.local
+
+# /DataModel/MosaicDataModeler/rel/
+/DataModel/MosaicDataModeler/rel/*.localz
+/DataModel/MosaicDataModeler/rel/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/foreignkey/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/foreignkey/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/foreignkey/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/foreignkey/seg_0/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/foreignkey/seg_0/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/foreignkey/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/SType/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/SType/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/SType/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/SType/seg_0/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/SType/seg_0/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/SType/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Segment/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Segment/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Segment/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Segment/seg_0/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Segment/seg_0/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Segment/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Sequence/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Sequence/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Sequence/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Sequence/seg_0/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Sequence/seg_0/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Sequence/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/TSpace/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/TSpace/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/TSpace/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/TSpace/seg_0/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/TSpace/seg_0/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/TSpace/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Table/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Table/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Table/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Table/seg_0/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Table/seg_0/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Table/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Trigger/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Trigger/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Trigger/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Trigger/seg_0/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Trigger/seg_0/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/Trigger/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/User/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/User/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/User/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/User/seg_0/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/User/seg_0/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/phys/32076570-BF29817DFF70/User/seg_0/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/subviews/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/subviews/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/subviews/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/table/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/table/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/table/*.local
+
+# /DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/table/seg_0/
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/table/seg_0/*.localz
+/DataModel/MosaicDataModeler/rel/91A8B84C-DE1D0A88565C/table/seg_0/*.local
+
+# /SW.Mosaic.Business/
+/SW.Mosaic.Business/[Bb]in
+/SW.Mosaic.Business/obj
+/SW.Mosaic.Business/[Dd]ebug
+/SW.Mosaic.Business/[Rr]elease
+/SW.Mosaic.Business/*.user
+/SW.Mosaic.Business/*.aps
+/SW.Mosaic.Business/*.eto
+/SW.Mosaic.Business/ClientBin
+/SW.Mosaic.Business/GeneratedArtifacts
+/SW.Mosaic.Business/_Pvt_Extensions
+
+# /SW.Mosaic.Common/
+/SW.Mosaic.Common/[Bb]in
+/SW.Mosaic.Common/obj
+/SW.Mosaic.Common/[Dd]ebug
+/SW.Mosaic.Common/[Rr]elease
+/SW.Mosaic.Common/*.user
+/SW.Mosaic.Common/*.aps
+/SW.Mosaic.Common/*.eto
+/SW.Mosaic.Common/ClientBin
+/SW.Mosaic.Common/GeneratedArtifacts
+/SW.Mosaic.Common/_Pvt_Extensions
+
+# /SW.Mosaic.Data/
+/SW.Mosaic.Data/[Bb]in
+/SW.Mosaic.Data/obj
+/SW.Mosaic.Data/[Dd]ebug
+/SW.Mosaic.Data/[Rr]elease
+/SW.Mosaic.Data/*.user
+/SW.Mosaic.Data/*.aps
+/SW.Mosaic.Data/*.eto
+/SW.Mosaic.Data/ClientBin
+/SW.Mosaic.Data/GeneratedArtifacts
+/SW.Mosaic.Data/_Pvt_Extensions
+
+# /SW.Mosaic.Data.Oracle/
+/SW.Mosaic.Data.Oracle/[Bb]in
+/SW.Mosaic.Data.Oracle/obj
+/SW.Mosaic.Data.Oracle/[Dd]ebug
+/SW.Mosaic.Data.Oracle/[Rr]elease
+/SW.Mosaic.Data.Oracle/*.user
+/SW.Mosaic.Data.Oracle/*.aps
+/SW.Mosaic.Data.Oracle/*.eto
+/SW.Mosaic.Data.Oracle/ClientBin
+/SW.Mosaic.Data.Oracle/GeneratedArtifacts
+/SW.Mosaic.Data.Oracle/_Pvt_Extensions
+
+# /SW.Mosaic.Domain/
+/SW.Mosaic.Domain/[Bb]in
+/SW.Mosaic.Domain/obj
+/SW.Mosaic.Domain/[Dd]ebug
+/SW.Mosaic.Domain/[Rr]elease
+/SW.Mosaic.Domain/*.user
+/SW.Mosaic.Domain/*.aps
+/SW.Mosaic.Domain/*.eto
+/SW.Mosaic.Domain/ClientBin
+/SW.Mosaic.Domain/GeneratedArtifacts
+/SW.Mosaic.Domain/_Pvt_Extensions
+
+# /SW.Mosaic.Specs/
+/SW.Mosaic.Specs/[Bb]in
+/SW.Mosaic.Specs/obj
+/SW.Mosaic.Specs/[Dd]ebug
+/SW.Mosaic.Specs/[Rr]elease
+/SW.Mosaic.Specs/*.user
+/SW.Mosaic.Specs/*.aps
+/SW.Mosaic.Specs/*.eto
+
+# /SW.Mosaic.TestData/
+/SW.Mosaic.TestData/[Bb]in
+/SW.Mosaic.TestData/obj
+/SW.Mosaic.TestData/[Dd]ebug
+/SW.Mosaic.TestData/[Rr]elease
+/SW.Mosaic.TestData/*.user
+/SW.Mosaic.TestData/*.aps
+/SW.Mosaic.TestData/*.eto
+/SW.Mosaic.TestData/ClientBin
+/SW.Mosaic.TestData/GeneratedArtifacts
+/SW.Mosaic.TestData/_Pvt_Extensions
+
+# /SW.Mosaic.Tests.Unit/
+/SW.Mosaic.Tests.Unit/[Bb]in
+/SW.Mosaic.Tests.Unit/obj
+/SW.Mosaic.Tests.Unit/[Dd]ebug
+/SW.Mosaic.Tests.Unit/[Rr]elease
+/SW.Mosaic.Tests.Unit/*.user
+/SW.Mosaic.Tests.Unit/*.aps
+/SW.Mosaic.Tests.Unit/*.eto
+/SW.Mosaic.Tests.Unit/ClientBin
+/SW.Mosaic.Tests.Unit/GeneratedArtifacts
+/SW.Mosaic.Tests.Unit/_Pvt_Extensions
+
+# /SW.Mosaic.UI.Web/
+/SW.Mosaic.UI.Web/[Bb]in
+/SW.Mosaic.UI.Web/obj
+/SW.Mosaic.UI.Web/[Dd]ebug
+/SW.Mosaic.UI.Web/[Rr]elease
+/SW.Mosaic.UI.Web/*.user
+/SW.Mosaic.UI.Web/*.aps
+/SW.Mosaic.UI.Web/*.eto
+/SW.Mosaic.UI.Web/ClientBin
+/SW.Mosaic.UI.Web/GeneratedArtifacts
+/SW.Mosaic.UI.Web/_Pvt_Extensions
+*.orig
+*.user
+STS*/
+Cukes/.idea/dictionaries*/
+Cukes/.idea/dataSources.ids
+*dbs.ini
+SW.Mosaic.UI.Web/App_Data/SearchIndex/
+SW.Mosaic.UI.Web/App_Data/All Data/
+Cukes/.idea/runConfigurations/Local___WIP_Search.xml
+SW.Mosaic.UI.Web/App_Data/BAK/
